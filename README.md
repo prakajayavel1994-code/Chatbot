@@ -81,7 +81,7 @@ offline-ai-ui/
 
 ## 👨‍💻 Author
 
-Jayam (First Year CSE Student)
+Prakash (Second Year CSE Student)
 
 ---
 
